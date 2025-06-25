@@ -195,13 +195,6 @@ To extend the functionality:
 3. Add more sophisticated clustering algorithms
 4. Create interactive visualizations
 
-## License
-
-[Add your license information here]
-
-## Contact
-
-[Add contact information here]
 
 ## Acknowledgments
 
